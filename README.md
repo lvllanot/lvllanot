@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/lvllanot/lvllanot/blob/main/laura.png" alt="Mi foto o logo" width="200" height="200">
+  <img src="https://github.com/lvllanot/lvllanot/blob/main/laura.png" alt="Mi foto o logo" width="670" height="600">
 </div>
 
 ## Sobre mí
 
-- 🌱 **Ingeniera biológica** con pasión por la naturaleza.  
-- 🎓 Actualmente estudiando una **maestría en Biotecnología**.  
+- 🌱 **Ingeniera biológica** de la Universidad Nacional de Colombia.  
+- 🎓 Actualmente estudiando una **Maestría en Biotecnología**.  
 - 🌍 Interesada en la **naturaleza y su cuidado**.  
 - 🤝 Siempre dispuesta a aprender y colaborar en proyectos interesantes.
 
@@ -19,12 +19,12 @@
   <tr>
     <td width="50%" align="center">
       <h3>Gene_identification</h3>
-      <img src="https://github.com/lvllanot/lvllanot/blob/main/buscar.png" alt="Captura del proyecto" width="200">
+      <img src="https://github.com/lvllanot/lvllanot/blob/main/buscar.png" alt="Captura del proyecto" width="300">
     </td>
     <td width="50%" align="center">
-      <p>Este programa identifica los **exones e intrones** de un gen dentro del genoma. Proporciona las posiciones, secuencias y la secuencia completa del gen.</p>
+      <p>Este programa identifica los exones e intrones de un gen dentro del genoma. Proporciona las posiciones y secuencias del gen y sus intrones y exones.</p>
       <p>
-        📂 **Repositorio:** [Gene Identification](https://github.com/lvllanot/gene_identification)
+        📂 Gene Identification https://github.com/lvllanot/gene_identification
       </p>
     </td>
   </tr>
