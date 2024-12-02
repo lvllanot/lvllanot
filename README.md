@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/lvllanot/lvllanot/blob/main/laural.png" alt="Mi foto o logo" width="10800" height="600">
+  <img src="https://github.com/lvllanot/lvllanot/blob/main/laural.png" alt="Mi foto o logo" width="900" height="500">
 </div>
 
 ## Sobre mí
